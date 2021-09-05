@@ -1,5 +1,5 @@
 # muxto_for_ice
-update the arduino nano every's samd11d to v1.06(). uploaded using atmel-ice, no bossac. i used microchip studio 7.
+update the arduino nano every's samd11d to v1.06(e458d1d). uploaded using atmel-ice, no bossac. i used microchip studio 7.
 
 ## background
 So i tried following the very nicely laid out steps here ... https://github.com/arduino/ArduinoCore-megaavr/issues/51#issuecomment-522905679
