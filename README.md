@@ -11,6 +11,6 @@ but i'm using windows and stuff didn't work and i honestly didn't try that hard.
 <li>provide power to nano every and connect to device ATSAMD11D14AM</li>
 <li>program</li>
 <li>remove atmel-ice and power cycle nano every</li>
-<li>test uploading/serial on nano every with verbose output on upload. should see latest rev like this in the output ... M_MCU firmware version: `1.07`
+<li>test uploading/serial on nano every with verbose output on upload. should see latest rev like this in the output ... `M_MCU firmware version: 1.07`
 </ol>
 
